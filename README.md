@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # facebook-clone-landingpage
 A front-end **Facebook homepage clone** built with **HTML and CSS**. This project mimics the look and layout of Facebook's logged-in home screen, including:
+=======
+# landingpage
+A front-end **Facebook homepage clone** built with **HTML and CSS**, using **Font Awesome** for free icons. This project mimics the look and layout of Facebook's logged-in home screen, including:
+>>>>>>> 974300972e1de6f867487624551c32c2c3a4b15b
 
 - Navigation bar (logo, search, icons)
 - Sidebar navigation (profile, friends, groups, etc.)
@@ -9,6 +14,16 @@ A front-end **Facebook homepage clone** built with **HTML and CSS**. This projec
 
 ---
 
+<<<<<<< HEAD
+=======
+## 🚀 Live Preview
+
+> Coming soon (host on GitHub Pages or Netlify)
+
+---
+
+##  Folder Structure
+>>>>>>> 974300972e1de6f867487624551c32c2c3a4b15b
 ```
 facebook-clone/
 │
@@ -19,6 +34,10 @@ facebook-clone/
 │ └── post-image.jpg # Example image used in feed
 └── README.md # Project overview
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 974300972e1de6f867487624551c32c2c3a4b15b
 ##  Technologies Used
 
 - **HTML5** — Page structure
